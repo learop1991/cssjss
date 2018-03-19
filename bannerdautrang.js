@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://www.taisannhadat.net/Uploads/Product/201803/402/336aacd3-2edd-4153-80d5-ce26baa46543.JPG' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2FRLvrM' target='_blank'><img src='http://www.taisannhadat.vn/Uploads/Banner/6_slidetaisannhadat.jpg' width='500px'/><br/>CÔNG TY TÀI SẢN NHÀ ĐẤT</a>. Công ty môi giới tốt nhất Việt Nam. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
